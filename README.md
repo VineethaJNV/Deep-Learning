@@ -1,5 +1,13 @@
 # Deep-Learning
 Deep Learning, the subset of ML dealing with images  and videos
-ML vs DL
-Neurol Networks
-Perceptron
+1. ML vs DL
+2. Neurol Networks
+3. Perceptron
+4. i/p & o/p layer
+5. Weights
+6. Bias
+7. Activation Function
+8. Forward Propagation
+9. Backward Propagation
+10. Loss function
+11. Optimizers
