@@ -11,3 +11,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 9. Backward Propagation
 10. Loss function
 11. Optimizers
+12. Modern Variants of GD
