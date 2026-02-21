@@ -12,3 +12,5 @@ Deep Learning, the subset of ML dealing with images  and videos
 10. Loss function
 11. Optimizers
 12. Modern Variants of GD
+13. ANN for regression
+14. ANN for classification
