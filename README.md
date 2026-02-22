@@ -14,3 +14,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 12. Modern Variants of GD
 13. ANN for regression
 14. ANN for classification
+15. Neural Network Architecture(FNN)
