@@ -16,3 +16,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 14. ANN for classification
 15. Neural Network Architecture(FNN)
 16. Computer Vision
+17. CNN Architecture
