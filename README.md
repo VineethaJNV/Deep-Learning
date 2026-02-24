@@ -19,3 +19,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 17. CNN Architecture
 18. Convolutional layer
 19. Pooling Layer
+20. Fully Connected Layer
