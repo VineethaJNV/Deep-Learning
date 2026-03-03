@@ -21,3 +21,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 19. Pooling Layer
 20. Fully Connected Layer
 21. Natural Language Processing
+22. Text Processing Techniques
