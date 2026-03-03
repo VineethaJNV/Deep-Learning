@@ -22,3 +22,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 20. Fully Connected Layer
 21. Natural Language Processing
 22. Text Processing Techniques
+23. TF-IDF
