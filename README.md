@@ -23,3 +23,5 @@ Deep Learning, the subset of ML dealing with images  and videos
 21. Natural Language Processing
 22. Text Processing Techniques
 23. TF-IDF
+24. RNN Architecture
+25. Types of RNN Architectures
