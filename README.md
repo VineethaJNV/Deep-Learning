@@ -25,3 +25,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 23. TF-IDF
 24. RNN Architecture
 25. Types of RNN Architectures
+26. Back propagation in RNN
