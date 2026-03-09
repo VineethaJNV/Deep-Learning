@@ -20,3 +20,10 @@ Deep Learning, the subset of ML dealing with images  and videos
 18. Convolutional layer
 19. Pooling Layer
 20. Fully Connected Layer
+21. Natural Language Processing
+22. Text Processing Techniques
+23. TF-IDF
+24. RNN Architecture
+25. Types of RNN Architectures
+26. Back propagation in RNN
+27. Long Short Term memory(LSTM)
