@@ -27,3 +27,5 @@ Deep Learning, the subset of ML dealing with images  and videos
 25. Types of RNN Architectures
 26. Back propagation in RNN
 27. Long Short Term memory(LSTM)
+28. Reinforcement Learning
+29. 
