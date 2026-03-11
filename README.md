@@ -30,3 +30,5 @@ Deep Learning, the subset of ML dealing with images  and videos
 28. Reinforcement Learning
 29. Components in RL
 30. Markov Decision Process
+31. Policy optimization in grid
+32. 
