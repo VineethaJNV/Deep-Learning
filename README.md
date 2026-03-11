@@ -31,4 +31,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 29. Components in RL
 30. Markov Decision Process
 31. Policy optimization in grid
-32. 
+32. Importance of Q-Functions
