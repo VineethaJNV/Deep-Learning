@@ -32,3 +32,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 30. Markov Decision Process
 31. Policy optimization in grid
 32. Importance of Q-Functions
+33. Exploration - Exploitation Trade off
