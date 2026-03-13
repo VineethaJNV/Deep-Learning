@@ -34,3 +34,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 32. Importance of Q-Functions
 33. Exploration - Exploitation Trade off
 34. Dynamic Programming
+35. Monte carlo methods
