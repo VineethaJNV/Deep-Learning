@@ -36,4 +36,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 34. Dynamic Programming
 35. Monte carlo methods
 36. Temporal Difference Learning
-37. 
+37. SARSA Algorithm
