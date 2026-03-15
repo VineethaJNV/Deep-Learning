@@ -38,4 +38,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 36. Temporal Difference Learning
 37. SARSA Algorithm
 38. Q-Learning Algorithm
-39. 
+39. Cliff-walking problem and environment
