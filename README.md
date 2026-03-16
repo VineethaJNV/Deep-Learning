@@ -40,3 +40,4 @@ Deep Learning, the subset of ML dealing with images  and videos
 38. Q-Learning Algorithm
 39. Cliff-walking problem and environment
 40. What is agent learn with Q learning
+41. Deep Reinforcement Learning
